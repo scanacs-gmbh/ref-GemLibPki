@@ -3,23 +3,23 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>de.gematik.pki</groupId>
+    <groupId>de.scanacs</groupId>
     <artifactId>gemLibPki</artifactId>
-    <version>0.5.0</version>
+    <version>0.5.1</version>
     <packaging>jar</packaging>
     <description>gematik library PKI</description>
     <name>GemLibPki</name>
-    <url>https://github.com/gematik/ref-GemLibPki</url>
+    <url>https://github.com/scanacs-gmbh/ref-GemLibPki</url>
 
     <scm>
-        <url>https://github.com/gematik/ref-GemLibPki</url>
-        <connection>scm:git:git://github.com/gematik/ref-GemLibPki.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:gematik/ref-GemLibPki.git</developerConnection>
+        <url>https://github.com/scanacs-gmbh/ref-GemLibPki</url>
+        <connection>scm:git:git://github.com/scanacs-gmbh/ref-GemLibPki.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:scanacs-gmbh/ref-GemLibPki.git</developerConnection>
     </scm>
 
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/gematik/ref-GemLibPki/issues</url>
+        <url>https://github.com/scanacs-gmbh/ref-GemLibPki/issues</url>
     </issueManagement>
 
     <organization>
